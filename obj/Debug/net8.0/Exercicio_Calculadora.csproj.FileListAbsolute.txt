@@ -1,0 +1,14 @@
+C:\Users\sysjo\Documents\----ESTUDOS_TECONOLOGIA----\Exercicio_Calculadora\bin\Debug\net8.0\Exercicio_Calculadora.exe
+C:\Users\sysjo\Documents\----ESTUDOS_TECONOLOGIA----\Exercicio_Calculadora\bin\Debug\net8.0\Exercicio_Calculadora.deps.json
+C:\Users\sysjo\Documents\----ESTUDOS_TECONOLOGIA----\Exercicio_Calculadora\bin\Debug\net8.0\Exercicio_Calculadora.runtimeconfig.json
+C:\Users\sysjo\Documents\----ESTUDOS_TECONOLOGIA----\Exercicio_Calculadora\bin\Debug\net8.0\Exercicio_Calculadora.dll
+C:\Users\sysjo\Documents\----ESTUDOS_TECONOLOGIA----\Exercicio_Calculadora\bin\Debug\net8.0\Exercicio_Calculadora.pdb
+C:\Users\sysjo\Documents\----ESTUDOS_TECONOLOGIA----\Exercicio_Calculadora\obj\Debug\net8.0\Exercicio_Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sysjo\Documents\----ESTUDOS_TECONOLOGIA----\Exercicio_Calculadora\obj\Debug\net8.0\Exercicio_Calculadora.AssemblyInfoInputs.cache
+C:\Users\sysjo\Documents\----ESTUDOS_TECONOLOGIA----\Exercicio_Calculadora\obj\Debug\net8.0\Exercicio_Calculadora.AssemblyInfo.cs
+C:\Users\sysjo\Documents\----ESTUDOS_TECONOLOGIA----\Exercicio_Calculadora\obj\Debug\net8.0\Exercicio_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\sysjo\Documents\----ESTUDOS_TECONOLOGIA----\Exercicio_Calculadora\obj\Debug\net8.0\Exercicio_Calculadora.dll
+C:\Users\sysjo\Documents\----ESTUDOS_TECONOLOGIA----\Exercicio_Calculadora\obj\Debug\net8.0\refint\Exercicio_Calculadora.dll
+C:\Users\sysjo\Documents\----ESTUDOS_TECONOLOGIA----\Exercicio_Calculadora\obj\Debug\net8.0\Exercicio_Calculadora.pdb
+C:\Users\sysjo\Documents\----ESTUDOS_TECONOLOGIA----\Exercicio_Calculadora\obj\Debug\net8.0\Exercicio_Calculadora.genruntimeconfig.cache
+C:\Users\sysjo\Documents\----ESTUDOS_TECONOLOGIA----\Exercicio_Calculadora\obj\Debug\net8.0\ref\Exercicio_Calculadora.dll
